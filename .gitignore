@@ -1,0 +1,38 @@
+# Конфиденциальные файлы
+github_config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
